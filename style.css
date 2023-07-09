@@ -1,18 +1,17 @@
 body {
     font-family: 'Bacasime Antique', serif;
     border: 1px solid red
-    
 }
-* {
-    box-sizing: border-box;
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   body {
     margin: 0;padding: 0;
   }
-  body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+* {
+    box-sizing: border-box;
   }
   .container {
     max-width: 1440px;
@@ -21,7 +20,6 @@ body {
   html {
     scroll-behavior: smooth; 
   }
-
   .nav-list {
     display: flex;
     justify-content: space-evenly;
@@ -39,7 +37,6 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  
   .section {
     width: 50%;
   }
