@@ -1,8 +1,8 @@
 .container {
     max-width: 100%;
     padding: 0 20px;
-    box-sizing: border-box; 
-    margin: 0 auto; 
+    box-sizing: border-box;
+    margin: 0 auto;
   }
 body {
     font-family: 'Bacasime Antique', serif;
@@ -23,12 +23,12 @@ body {
     margin: 0 auto;
   }
   html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
   }
   .nav-list {
     display: flex;
     justify-content: space-evenly;
-    align-items: center; 
+    align-items: center;
   }
   .nav-list {
     list-style: none;
@@ -46,8 +46,7 @@ body {
     width: 50%;
   }
   a {
-    text-decoration: none; 
-    color: #161515; 
-    font-size: 16px; 
+    text-decoration: none;
+    color: #161515;
+    font-size: 16px;
   }
-  
